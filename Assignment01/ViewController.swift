@@ -113,6 +113,9 @@
                 resultLabel1.text = "Obesity (Class 2)"
             default:
                 resultLabel1.text = "Extremely obese"
+                
+                
+                
             }
         }
         
