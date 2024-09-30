@@ -114,8 +114,6 @@ class ViewController: UIViewController {
         default:
             resultLabel1.text = "Extremely obese"
             
-            
-            
         }
     }
     
